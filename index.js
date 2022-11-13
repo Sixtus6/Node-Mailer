@@ -3,15 +3,15 @@ var nodemailer = require('nodemailer');
 // var transporter = nodemailer.createTransport({
  
  
-//   host: "mail.ctrixx.com",
+//   host: "",
 //   port: 25,
 //   secure: false,
 //   logger: true,
 //   debug: true,
 //   ignoreTLS: true,
 //   auth: {
-//     user: 'hello@ctrixx.com',
-//     pass: 'ctrixx@hello'
+//     user: '',
+//     pass: ''
 //   }
 // });
 

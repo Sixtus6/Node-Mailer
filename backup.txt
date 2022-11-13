@@ -13,8 +13,8 @@ async function main() {
     port: 26,
     secure: true, // true for 465, false for other ports
     auth: {
-      user: "hello@ctrixx.com", // generated ethereal user
-      pass: "ctrixx@hello", // generated ethereal password
+      user: "", // generated ethereal user
+      pass: "", // generated ethereal password
     },
   });
 
