@@ -9,7 +9,7 @@ async function main() {
 
   // create reusable transporter object using the default SMTP transport
   let transporter = nodemailer.createTransport({
-    host: "mail.ctrixx.com",
+    host: "",
     port: 26,
     secure: true, // true for 465, false for other ports
     auth: {
